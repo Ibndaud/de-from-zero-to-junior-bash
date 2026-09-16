@@ -41,7 +41,7 @@ cat report.txt
 
 <!-- Перед коммитом переименуйте скриншот без пробелов:
      mv "Screenshot select from 2025-08-15 13-16-21.png" screenshot.png -->
-![Вывод скрипта в терминале]([Screenshot select from 2025-08-15 13-16-21.png](https://github.com/Ibndaud/de-from-zero-to-junior-bash/blob/e8ce0d82919a2627bb652504aa8d7c7cc3d6e107/Screenshot%20select%20from%202025-08-15%2013-16-21.png))
+![Вывод скрипта в терминале](screenshot.png)
 
 ## Структура
 
