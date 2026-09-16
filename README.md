@@ -39,8 +39,6 @@ chmod +x analyze_logs.sh
 cat report.txt
 ```
 
-<!-- Перед коммитом переименуйте скриншот без пробелов:
-     mv "Screenshot select from 2025-08-15 13-16-21.png" screenshot.png -->
 ![Вывод скрипта в терминале](screenshot.png)
 
 ## Структура
